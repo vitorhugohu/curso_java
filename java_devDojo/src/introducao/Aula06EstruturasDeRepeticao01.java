@@ -1,9 +1,9 @@
 package introducao;
 
 /*
-    While - pode ser executado ou não (Trabalha com condições)
-    Do While - vai executar pelo menos uma vez (Trabalha com condições)
-    For - (Trabalha com índices)
+    While - usando quando eu não sei até quando irei fazer uma determinada demanda, pode ser executado ou não (Trabalha com condições)
+    Do While - usando quando eu não sei até quando irei fazer uma determinada demanda, vai executar pelo menos uma vez (Trabalha com condições)
+    For - usando quando sei até quando irei fazer uma determinada demanda(Trabalha com índices)
 */
 
 public class Aula06EstruturasDeRepeticao01 {
